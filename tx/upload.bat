@@ -1,0 +1,1 @@
+C:\Users\efrenbg1\AppData\Local\Arduino15\packages\digistump\tools\micronucleus\2.0a4\micronucleus.exe C:\Users\efrenbg1\Documents\\"Atmel Studio"\7.0\bacon\bacon\Debug\bacon.hex
